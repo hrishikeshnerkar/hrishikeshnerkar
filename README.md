@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Amazon Web Services(AWS)**
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Java Backend Development**
 
 - 📫 How to reach me **hrishikeshnerkar25@gmail.com**
 
