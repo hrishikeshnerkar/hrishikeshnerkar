@@ -1,6 +1,6 @@
 ![logo](https://github.com/hrishikeshnerkar/hrishikeshnerkar/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Hrishikesh Nerkar</h1>
-<h3 align="center">A passionate Frontend Developer from India.</h3>
+<h3 align="center">A passionate Backend Developer from India.</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
