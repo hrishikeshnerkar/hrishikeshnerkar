@@ -1,4 +1,3 @@
-![logo](https://github.com/hrishikeshnerkar/hrishikeshnerkar/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Hrishikesh Nerkar</h1>
 <h3 align="center">A passionate Backend Developer from India.</h3>
 
